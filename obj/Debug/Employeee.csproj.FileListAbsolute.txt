@@ -1,0 +1,14 @@
+C:\Users\Vinay G\source\repos\Employeee\bin\Debug\Employeee.exe.config
+C:\Users\Vinay G\source\repos\Employeee\bin\Debug\Employeee.exe
+C:\Users\Vinay G\source\repos\Employeee\bin\Debug\Employeee.pdb
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.csprojAssemblyReference.cache
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.Employee.resources
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.Form1.resources
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.Manager.resources
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.Project.resources
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.Properties.Resources.resources
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.Report.resources
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.csproj.GenerateResource.cache
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.csproj.CoreCompileInputs.cache
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.exe
+C:\Users\Vinay G\source\repos\Employeee\obj\Debug\Employeee.pdb
